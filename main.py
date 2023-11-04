@@ -6,7 +6,6 @@ from emailing import send_email
 from datetime import datetime
 from threading import Thread
 
-
 scale = 30
 
 video = cv2.VideoCapture(0)

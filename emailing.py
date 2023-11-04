@@ -4,7 +4,6 @@ from login_creds import PASSWORD
 from login_creds import SENDER
 from login_creds import RECEIVER
 
-
 PASSWORD = PASSWORD
 SENDER = SENDER
 RECEIVER = RECEIVER
