@@ -1,0 +1,1 @@
+App is detecting motion and sends email with the picture
